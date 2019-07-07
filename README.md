@@ -1,2 +1,3 @@
 # link2clip
-Pequeño proyecto para capturar enlaces.
+
+Get links from a web page a paste to clipper or file.
